@@ -1161,15 +1161,6 @@
 						"compare": "is",
 						"qualifier": "Sensitivity"
 					}
-				},
-				{
-					"type": "skill_bonus",
-					"amount": 1,
-					"per_level": true,
-					"selection_type": "skills_with_name",
-					"name": {
-						"compare": "is"
-					}
 				}
 			],
 			"categories": [

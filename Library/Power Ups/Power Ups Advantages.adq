@@ -1305,15 +1305,6 @@
 					"per_level": true,
 					"selection_type": "skills_with_name",
 					"name": {
-						"compare": "is"
-					}
-				},
-				{
-					"type": "skill_bonus",
-					"amount": -1,
-					"per_level": true,
-					"selection_type": "skills_with_name",
-					"name": {
 						"compare": "is",
 						"qualifier": "Teaching"
 					}
@@ -9143,42 +9134,6 @@
 						"compare": "is",
 						"qualifier": "Expert Skill"
 					}
-				},
-				{
-					"type": "skill_bonus",
-					"amount": 1,
-					"per_level": true,
-					"selection_type": "skills_with_name",
-					"name": {
-						"compare": "is"
-					}
-				},
-				{
-					"type": "skill_bonus",
-					"amount": 1,
-					"per_level": true,
-					"selection_type": "skills_with_name",
-					"name": {
-						"compare": "is"
-					}
-				},
-				{
-					"type": "skill_bonus",
-					"amount": 1,
-					"per_level": true,
-					"selection_type": "skills_with_name",
-					"name": {
-						"compare": "is"
-					}
-				},
-				{
-					"type": "skill_bonus",
-					"amount": 1,
-					"per_level": true,
-					"selection_type": "skills_with_name",
-					"name": {
-						"compare": "is"
-					}
 				}
 			],
 			"categories": [
@@ -11565,15 +11520,6 @@
 						"compare": "is",
 						"qualifier": "Navigation"
 					}
-				},
-				{
-					"type": "skill_bonus",
-					"amount": 1,
-					"per_level": true,
-					"selection_type": "skills_with_name",
-					"name": {
-						"compare": "is"
-					}
 				}
 			],
 			"categories": [
@@ -12393,33 +12339,6 @@
 						"compare": "is",
 						"qualifier": "Veterinary"
 					}
-				},
-				{
-					"type": "skill_bonus",
-					"amount": 1,
-					"per_level": true,
-					"selection_type": "skills_with_name",
-					"name": {
-						"compare": "is"
-					}
-				},
-				{
-					"type": "skill_bonus",
-					"amount": 1,
-					"per_level": true,
-					"selection_type": "skills_with_name",
-					"name": {
-						"compare": "is"
-					}
-				},
-				{
-					"type": "skill_bonus",
-					"amount": 1,
-					"per_level": true,
-					"selection_type": "skills_with_name",
-					"name": {
-						"compare": "is"
-					}
 				}
 			],
 			"categories": [
@@ -12982,15 +12901,6 @@
 					"name": {
 						"compare": "is",
 						"qualifier": "Sensitivity"
-					}
-				},
-				{
-					"type": "skill_bonus",
-					"amount": 1,
-					"per_level": true,
-					"selection_type": "skills_with_name",
-					"name": {
-						"compare": "is"
 					}
 				}
 			],
@@ -14253,24 +14163,6 @@
 					"name": {
 						"compare": "is",
 						"qualifier": "Two-Handed Sword"
-					}
-				},
-				{
-					"type": "skill_bonus",
-					"amount": 1,
-					"per_level": true,
-					"selection_type": "skills_with_name",
-					"name": {
-						"compare": "is"
-					}
-				},
-				{
-					"type": "skill_bonus",
-					"amount": 1,
-					"per_level": true,
-					"selection_type": "skills_with_name",
-					"name": {
-						"compare": "is"
 					}
 				}
 			],
@@ -16351,42 +16243,6 @@
 						"compare": "is",
 						"qualifier": "Streetwise"
 					}
-				},
-				{
-					"type": "skill_bonus",
-					"amount": 1,
-					"per_level": true,
-					"selection_type": "skills_with_name",
-					"name": {
-						"compare": "is"
-					}
-				},
-				{
-					"type": "skill_bonus",
-					"amount": 1,
-					"per_level": true,
-					"selection_type": "skills_with_name",
-					"name": {
-						"compare": "is"
-					}
-				},
-				{
-					"type": "skill_bonus",
-					"amount": 1,
-					"per_level": true,
-					"selection_type": "skills_with_name",
-					"name": {
-						"compare": "is"
-					}
-				},
-				{
-					"type": "skill_bonus",
-					"amount": 1,
-					"per_level": true,
-					"selection_type": "skills_with_name",
-					"name": {
-						"compare": "is"
-					}
 				}
 			],
 			"categories": [
@@ -16834,24 +16690,6 @@
 					"name": {
 						"compare": "is",
 						"qualifier": "Wrestling"
-					}
-				},
-				{
-					"type": "skill_bonus",
-					"amount": 1,
-					"per_level": true,
-					"selection_type": "skills_with_name",
-					"name": {
-						"compare": "is"
-					}
-				},
-				{
-					"type": "skill_bonus",
-					"amount": 1,
-					"per_level": true,
-					"selection_type": "skills_with_name",
-					"name": {
-						"compare": "is"
 					}
 				}
 			],

@@ -276,42 +276,6 @@
 										"compare": "is",
 										"qualifier": "Streetwise"
 									}
-								},
-								{
-									"type": "skill_bonus",
-									"amount": 1,
-									"per_level": true,
-									"selection_type": "skills_with_name",
-									"name": {
-										"compare": "is"
-									}
-								},
-								{
-									"type": "skill_bonus",
-									"amount": 1,
-									"per_level": true,
-									"selection_type": "skills_with_name",
-									"name": {
-										"compare": "is"
-									}
-								},
-								{
-									"type": "skill_bonus",
-									"amount": 1,
-									"per_level": true,
-									"selection_type": "skills_with_name",
-									"name": {
-										"compare": "is"
-									}
-								},
-								{
-									"type": "skill_bonus",
-									"amount": 1,
-									"per_level": true,
-									"selection_type": "skills_with_name",
-									"name": {
-										"compare": "is"
-									}
 								}
 							],
 							"categories": [
@@ -1257,42 +1221,6 @@
 											"name": {
 												"compare": "is",
 												"qualifier": "Streetwise"
-											}
-										},
-										{
-											"type": "skill_bonus",
-											"amount": 1,
-											"per_level": true,
-											"selection_type": "skills_with_name",
-											"name": {
-												"compare": "is"
-											}
-										},
-										{
-											"type": "skill_bonus",
-											"amount": 1,
-											"per_level": true,
-											"selection_type": "skills_with_name",
-											"name": {
-												"compare": "is"
-											}
-										},
-										{
-											"type": "skill_bonus",
-											"amount": 1,
-											"per_level": true,
-											"selection_type": "skills_with_name",
-											"name": {
-												"compare": "is"
-											}
-										},
-										{
-											"type": "skill_bonus",
-											"amount": 1,
-											"per_level": true,
-											"selection_type": "skills_with_name",
-											"name": {
-												"compare": "is"
 											}
 										}
 									],
@@ -6319,42 +6247,6 @@
 											"name": {
 												"compare": "is",
 												"qualifier": "Streetwise"
-											}
-										},
-										{
-											"type": "skill_bonus",
-											"amount": 1,
-											"per_level": true,
-											"selection_type": "skills_with_name",
-											"name": {
-												"compare": "is"
-											}
-										},
-										{
-											"type": "skill_bonus",
-											"amount": 1,
-											"per_level": true,
-											"selection_type": "skills_with_name",
-											"name": {
-												"compare": "is"
-											}
-										},
-										{
-											"type": "skill_bonus",
-											"amount": 1,
-											"per_level": true,
-											"selection_type": "skills_with_name",
-											"name": {
-												"compare": "is"
-											}
-										},
-										{
-											"type": "skill_bonus",
-											"amount": 1,
-											"per_level": true,
-											"selection_type": "skills_with_name",
-											"name": {
-												"compare": "is"
 											}
 										}
 									],
